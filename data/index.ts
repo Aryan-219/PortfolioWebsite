@@ -73,41 +73,46 @@ export const projects = [
   {
     id: 1,
     title: "LEGAL BREEZE - Diving into legal waters ",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    des: "A MVC based webapp created in JAVA EE. The application integrates legal service providers and seekers by providing immediate section, bidding section and general section.",
     img: "/lb.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    site: "https://github.com/Aryan-219/LEGAL-BREEZE",
     link: "https://github.com/Aryan-219/LEGAL-BREEZE",
   },
   {
     id: 2,
-    title: "TDF - Technical Discussion Forum",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    title:
+      "Another MVC based webapp created in JAVA EE. It is a platform that is designed to solve and assist in doubts of developers and programmers",
     img: "/tdf.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    site: "https://github.com/Aryan-219/TDF_Prac",
     link: "https://github.com/Aryan-219/TDF_Prac",
   },
   {
     id: 3,
     title: "NIGHT NEST CAMPING - Camp, Adventure, Fun",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    des: "You're going to fall in love with nature the day you camp in the beautiful island near bargi dam.",
     img: "/camping.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    site: "https://camping-frontend.vercel.app/",
     link: "https://github.com/Aryan-219/camping_frontend",
   },
   {
     id: 4,
     title: "Society website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    des: "Build on top of MERN stack, the website is the face of the technical society of our college, JEC.",
     img: "/jlug.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    site: "http://www.jlug.club/",
     link: "https://github.com/Aryan-219/jlug-website-FrontEnd",
   },
   {
     id: 5,
     title: "TedxJec",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    des: "Designed in MERN to spread the word of TEDxJEC, one of the most prestigious events held since years...",
     img: "/tedx.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    site: "http://www.tedxjec.co",
     link: "https://github.com/Aryan-219/tedxjec_original",
   },
 ];
@@ -115,48 +120,48 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Aryan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Aryan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Aryan is the ideal partner.",
+    name: "Saket Gupta",
+    title: "Founder of the project - NIGHT NEST",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Aryan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Aryan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Aryan is the ideal partner.",
+    name: "Saket Gupta",
+    title: "Founder of the project - NIGHT NEST",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Aryan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Aryan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Aryan is the ideal partner.",
+    name: "Saket Gupta",
+    title: "Founder of the project - NIGHT NEST",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Aryan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Aryan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Aryan is the ideal partner.",
+    name: "Saket Gupta",
+    title: "Founder of the project - NIGHT NEST",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Aryan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Aryan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Aryan is the ideal partner.",
+    name: "Saket Gupta",
+    title: "Founder of the project - NIGHT NEST",
   },
 ];
 
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
+    name: "twilio",
+    img: "/twilio.webp",
+    nameImg: "/twilio_name.png",
   },
   {
     id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
+    name: "recaptcha",
+    img: "/recaptcha.png",
+    nameImg: "/recaptcha_name.png",
   },
   {
     id: 3,
@@ -166,15 +171,15 @@ export const companies = [
   },
   {
     id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
+    name: "netlify",
+    img: "/netlify.png",
+    nameImg: "/netlify_name.png",
   },
   {
     id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
+    name: "gmail.",
+    img: "/mail.webp",
+    nameImg: "/mail_name.png",
   },
 ];
 
@@ -213,13 +218,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/Aryan-219",
   },
   {
     id: 2,
-    img: "/twit.svg",
+    link: "https://www.instagram.com/_aryan_7342/",
+    img: "/insta.svg",
   },
   {
     id: 3,
+    link: "https://www.linkedin.com/in/aryan-agrawal-646270225/",
     img: "/link.svg",
   },
 ];
